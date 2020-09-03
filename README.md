@@ -11,16 +11,16 @@ blockchain platform. To learn more about Hyperledger Sawtooth, see the
 
 The Supply Chain components in this repository include:
 
-- A transaction processor that handles the Simple Supply transaction logic
+- A transaction processor that handles the Simple Supply transaction logic.
 
 - A custom REST API that provides HTTP/JSON endpoints for querying blockchain
-  data, creates batches and transactions, and manages user information
+  data, creates batches and transactions, and manages user information.
 
 - An event subscriber that parses blockchain events and stores data in a local,
-  off-chain reporting database
+  off-chain reporting database.
 
 - A simple client web app, Curator, that uses Simple Supply to track artwork
-  loans between museums, galleries, and private owners
+  loans between museums, galleries, and private owners.
 
 ## Usage
 
